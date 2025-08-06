@@ -1,4 +1,4 @@
-# CSRF Generator GUI
+# CSRF Generator
 
 A simple Python tool with a lightweight GUI for generating CSRF (Cross-Site Request Forgery) exploit forms from raw HTTP POST requests.
 
@@ -28,8 +28,8 @@ This tool lets you paste a **full raw HTTP POST request** (including headers and
 
 ## Installation
 
-1. Clone this repo or download the `csrf_generator_gui.py` script:
+1. Clone this repo or download the `csrf_generator.py` script:
 
    ```bash
-   git clone https://github.com/yourusername/csrf-generator-gui.git
-   cd csrf-generator-gui
+   git clone https://github.com/yourusername/csrf-generator.git
+   cd csrf-generator
