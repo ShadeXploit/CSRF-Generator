@@ -31,6 +31,6 @@ This tool lets you paste a **full raw HTTP POST request** (including headers and
 1. Clone this repo or download the `csrf_generator.py` script:
 
    ```bash
-   git clone https://github.com/yourusername/csrf-generator.git
+   git clone https://github.com/shadexploit/csrf-generator.git
    cd csrf-generator
    python csrf-generator.py
