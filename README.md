@@ -33,4 +33,5 @@ This tool lets you paste a **full raw HTTP POST request** (including headers and
    ```bash
    git clone https://github.com/shadexploit/csrf-generator.git
    cd csrf-generator
+   chmod +x csrf-generator.py
    python csrf-generator.py
